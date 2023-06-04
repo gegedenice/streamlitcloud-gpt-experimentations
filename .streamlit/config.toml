@@ -1,0 +1,9 @@
+[theme]
+base="light"
+
+[server]
+port = 8051
+baseUrlPath = "streamlit-gpt-experimentations"
+
+[browser]
+serverAddress = "0.0.0.0"
