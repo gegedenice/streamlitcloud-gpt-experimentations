@@ -2,6 +2,7 @@
 base="light"
 
 [server]
+headless = true
 port = 8051
 baseUrlPath = "streamlit-gpt-experimentations"
 
