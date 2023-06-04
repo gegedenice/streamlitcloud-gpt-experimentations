@@ -2,6 +2,6 @@
 
 ![forthebadge](forthebadge.svg)
 
-Access : 
+Access : [https://gegedenice-streamlitcloud-gpt-experimentations-about-y7jwfv.streamlit.app/](https://gegedenice-streamlitcloud-gpt-experimentations-about-y7jwfv.streamlit.app/)
 
-Documentation : see 
+Documentation : see [https://github.com/azur-scd/streamlit-gpt-experimentations](https://github.com/azur-scd/streamlit-gpt-experimentations)
